@@ -9,6 +9,7 @@ Questions are grouped into model use and model documentation. Possible clues/ans
 
 
 2. How do we determine which files are required and which ones are not?
+  How do we determine which fields are required and which ones are not?
 
 3. What is the coded wire tag tables and how is that table associated with stocks?
 
