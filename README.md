@@ -1,4 +1,4 @@
-## The DGM (data geneneration model)
+## The Data Geneneration Model (DGM)
 
 The DGM is a fishery simulation tool written in VB on contract to the Pacific Salmon Commission's (www.psc.org) Chinook Technical Committee (CTC). The code is written in Visual Basic and prepared to model population biology and fisheries somewhat specific to chinook salmon. 
 
