@@ -1,0 +1,25 @@
+# History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+
+
+#Microsoft stuff
+*.xls
+*.xlsx
+*.xlsm
+*.doc
+*.docx
+*.pdf
+
+
+#Exclude all the data - NO data goes on Github
+data/*.*
+
+
+#log files
+*.log
+
