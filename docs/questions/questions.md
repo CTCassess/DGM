@@ -27,7 +27,8 @@ Questions are grouped into model use and model documentation. Possible clues/ans
 **A:**So far the only solution is to run the model setting all variances to low numbers, e.g.: 0.01. The model does stop running if you set the SD to a very small number (e.g. 10e-08). 
 
 
-3. What are the statistical distributions for all the process and observation error components of the model? -- there might be some 
+3. What are the statistical distributions for all the process and observation error components of the model? -- there might be some [Note Gaussian distribution mentioned in the DGM manual but are other distributions used for some variables as well.]
+
 
 
 
