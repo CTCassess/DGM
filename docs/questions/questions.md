@@ -30,5 +30,8 @@ Questions are grouped into model use and model documentation. Possible clues/ans
 3. What are the statistical distributions for all the process and observation error components of the model? -- there might be some 
 
 
+4. Need to check the manuals and documentations prepared by Kendra Holt and Brooke Davis. In addition, we need to check if the ugs reported by them were addressed within the DGM. 
+
+
 
 
